@@ -8,5 +8,4 @@ Develop a basic To-Do app that enables a user to add daily tasks.
 - Irrespective of the list, a user must be able to delete or edit tasks from it.
 
 
-# <span style="font-size: 32px; font-weight: bold;">Live Demo: </span>
-https://krishnabalasara.github.io/To-Do-Web-app/
+# <span style="font-size: 32px; font-weight: bold;">Live Demo: </span> https://krishnabalasara.github.io/To-Do-Web-app/
