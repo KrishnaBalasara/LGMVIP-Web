@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* Global CSS styles */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;   
+}
+
+/* Styling for the calculator container */
+.calculator{
+    /* border: 4px solid grey; */
+    padding: 20px;
+    border-radius: 16px;
+    background: rgb(190, 166, 222);
+}
+
+/* Styling for the input box */
+input{
+    width: 320px;
+    border: none;
+    padding: 24px;
+    margin: 10px;
+    background: transparent;
+    font-size: 40px;
+    text-align: right;
+    cursor: pointer;
+    color: #181111;
+}
+
+input::placeholder{
+    color:#181111;
+}
+
+/* Styling for the buttons */
+button{
+    border: 10px, rgb(0, 4, 11);
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    border-radius: 10px;
+    background: white;
+    color: black;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+/* Hover styles for buttons */
+.button:hover{
+    background: grey;
+    color: #fff;
+}
+
+/* Styling for the equal button */
+.equalBtn{
+    background: #2cb420;
+}
+
+/* Hover styles for equal buttons */
+.equalBtn:hover{
+    background: rgb(61, 204, 61);
+}
+
+/* Styling for operator buttons */
+.operator{
+    background: #e5853c;
+    color: #ffffff;
+}
+
+/* hover for 'AC'operator buttons */
+.operator:hover{
+    background: rgb(131, 81, 131);
+    color: #ffffff;
+}
+
+/* Styling for 'AC' and 'DEL' buttons */
+.button-ac, .button-del {
+    background: red;
+}
+
+/* hover for 'AC' and 'DEL' buttons */
+.button-ac:hover,
+.button-del:hover {
+    background-color: green; 
+    color: #fff; 
+}
