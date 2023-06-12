@@ -7,3 +7,6 @@ Develop a basic To-Do app that enables a user to add daily tasks.
 - In such a case, the to-do list will be a union of the Pending Tasks list and the Completed Tasks list.
 - Irrespective of the list, a user must be able to delete or edit tasks from it.
 
+
+# <span style="font-size: 32px; font-weight: bold;">Live Demo: </span>
+https://krishnabalasara.github.io/To-Do-Web-app/
