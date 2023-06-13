@@ -1,4 +1,4 @@
-# <span style="font-size: 32px; font-weight: bold;">Creat React App</span>
+# <span style="font-size: 32px; font-weight: bold;">Create React App</span>
 
 Create a web application using create-react-app.
 
