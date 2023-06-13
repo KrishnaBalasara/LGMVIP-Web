@@ -7,7 +7,7 @@ I would like to thank Aman Kesarwani Sir and the team of LetsGrowMore Community 
 
 During my internship, I successfully completed the following four tasks:
 
-# <span style="font-size: 25px; font-weight: bold;">Task-1 : To-Do List WebApp</span>
+ <span style="font-size: 25px; font-weight: bold;">Task-1 : To-Do List WebApp</span>
 https://krishnabalasara.github.io/To-Do-Web-app/
 
 # <span style="font-size: 28px; font-weight: bold;">Task-2 : Create React App</span>
