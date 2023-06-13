@@ -7,3 +7,5 @@ Create a web application using create-react-app.
 - Use https://reqres.in/api/users?page=1 to get the data
 - Show a loader while the API fetches the data.
 - Use custom CSS/SASS/styled-components.
+
+# <span style="font-size: 32px; font-weight: bold;">Live Demo: </span> https://krishnabalasara.github.io/React-app/
